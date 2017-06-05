@@ -67,7 +67,7 @@ $("img").click(function() {
    // end of button .click method
 });
 
-
+// test
 // <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
