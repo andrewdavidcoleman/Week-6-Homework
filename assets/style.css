@@ -23,6 +23,9 @@ button{
 	color: white;
 	background-color: black;
 }
+#madness{
+	margin: 20px;
+}
 .dynamic-div{
 	display: inline-block;
 	margin: 10px;
