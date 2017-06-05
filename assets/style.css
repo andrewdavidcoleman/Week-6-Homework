@@ -14,11 +14,16 @@ background-color: yellow;
 padding: 30px 0 0 0;
 }
 #gif-div{
-background-color: gold;
+color: black;
+display: inline-block;
 }
 button{
 	margin: 5px;
 	border-radius: 5px;
 	color: white;
 	background-color: black;
+}
+.dynamic-div{
+	display: inline-block;
+	margin: 10px;
 }
